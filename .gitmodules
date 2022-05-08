@@ -1,0 +1,7 @@
+[submodule "mbf-benchmark"]
+	path = mbf-benchmark
+	url = git@bitbucket.org:datasystemsbu/mbf-benchmark.git
+[submodule "rocksdb-mbf"]
+	path = rocksdb-mbf
+	url = git@bitbucket.org:datasystemsbu/rocksdb-mbf.git
+	branch = adms
